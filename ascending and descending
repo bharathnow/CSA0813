@@ -1,0 +1,5 @@
+
+list=[2,5,7,10,4,6,15]
+list.sort()
+print("a:",list)
+print('d:',list[::-1])
