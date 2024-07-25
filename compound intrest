@@ -1,0 +1,6 @@
+p=int(input('enter the value of p:'))
+t=int(input('enter the value of t:'))
+r=int(input('enter the value of r:'))
+a=p*(pow((1+r/100),t))
+ci=a-p
+print('compound intrest:',ci)
