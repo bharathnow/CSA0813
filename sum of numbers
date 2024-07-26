@@ -1,0 +1,6 @@
+
+n = 1
+sum = 0
+for i in range(n,4):
+    sum =sum+i
+print(sum)
