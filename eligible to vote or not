@@ -1,0 +1,5 @@
+age=int(input("enter the age :"))
+if(age>=18):
+     print("you have right to vote")
+else:
+    print("you dont have age to vote")
